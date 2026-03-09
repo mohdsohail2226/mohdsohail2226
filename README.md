@@ -1,4 +1,6 @@
-
+<h1 align="center">Hi 👋, I'm Mohd Sohail</h1>
+<h3 align="center">Application Support Engineer | IT Professional | Application & Product Support | Python | SQL | Banking & Telecom Domain</h3>
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-sohail-458664119) 
 
